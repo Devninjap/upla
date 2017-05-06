@@ -1,0 +1,2 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Sistema001\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Sistema001\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.GenerateResource.Cache
