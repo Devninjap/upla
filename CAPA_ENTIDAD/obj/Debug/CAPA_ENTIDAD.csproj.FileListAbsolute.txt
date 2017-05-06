@@ -1,0 +1,3 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Sistema001\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Sistema001\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Sistema001\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.csproj.GenerateResource.Cache
