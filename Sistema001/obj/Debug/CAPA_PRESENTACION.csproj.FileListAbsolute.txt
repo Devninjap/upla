@@ -7,3 +7,6 @@ C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Sistema001\Sistema001\obj
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Sistema001\Sistema001\obj\Debug\CAPA_PRESENTACION.csproj.GenerateResource.Cache
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Sistema001\Sistema001\obj\Debug\Sistema001.exe
 C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Sistema001\Sistema001\obj\Debug\Sistema001.pdb
+C:\Users\Yampier\Desktop\Proyecto practicas preProf\Sistema001\bin\Debug\Sistema001.exe.config
+C:\Users\Yampier\Desktop\Proyecto practicas preProf\Sistema001\obj\Debug\Sistema001.exe
+C:\Users\Yampier\Desktop\Proyecto practicas preProf\Sistema001\obj\Debug\Sistema001.pdb
